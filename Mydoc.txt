@@ -1,1 +1,8 @@
-testing
+TEMP
+Staging area
+testing Also adding some change while in staging area
+test : > Ashish Kumar
+one more line added 
+:q
+:wq
+
