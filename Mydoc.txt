@@ -1,6 +1,8 @@
 TEMP
 Staging area
-testing Also adding some change while in staging area
+Third Line
+Forth Line
+esting Also adding some change while in staging area
 test : > Ashish Kumar
 one more line added 
 :q
