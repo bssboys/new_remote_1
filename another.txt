@@ -1,1 +1,2 @@
 new file
+New file changed by another user
